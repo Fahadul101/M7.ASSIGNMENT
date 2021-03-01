@@ -1,0 +1,21 @@
+.container{
+    border:10px solid green;
+    margin:15px;
+    padding:10px;
+    width:280px;
+    background-color: ivory;
+    box-shadow: 0 4px 40px 0 rgba(0,0,0,0.2);
+    
+    
+}
+
+.container img {
+    height: 150px;
+
+}
+
+.main-button{
+    width:120px ;
+    cursor: pointer;
+    background-color: greenyellow;
+}

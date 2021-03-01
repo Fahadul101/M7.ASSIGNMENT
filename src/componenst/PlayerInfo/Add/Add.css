@@ -1,0 +1,9 @@
+.add-section{
+    border:10px solid green;
+    margin:15px;
+    padding:10px;
+    width:280px;
+    height:4725px;
+    background-color: ivory;
+    box-shadow: 0 4px 40px 0 rgba(0,0,0,0.2);
+}
